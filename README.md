@@ -30,32 +30,32 @@ Control Variables
 All macroeconomic variables are sourced from the World Bank World Development Indicators database.
 
 ## Replication Instructions
-
 1. All Datasets are pre-downloaded into data/raw, unmodified
 
-2. Download Packages:
+2. Required Packages
+
 - pandas
 - numpy
 - statsmodels
-- linearmodels
 - matplotlib
 - seaborn
+- pathlib
+
+Install with:
+
+```bash
+pip install pandas numpy statsmodels matplotlib seaborn
 
 3. Run all code in RDC.ipynb --> outputs clean files into data/clean
 
-## Econometric Specification
+4. Run `Primary Econometric Analysis.ipynb` to reproduce the regression results and regression table.
 
-The baseline specification is:
+##Primary Economic Analysis
 
-ΔUnemployment_it = β0 + β1COORD_it + β2GDPGrowth_it + β3Inflation_it + β4ExportDependence_it + β5GovSpend_it + α_i + γ_t + ε_it
-
-where:
-- α_i represents country fixed effects
-- γ_t represents year fixed effects
-
-## Robustness Checks
-Robustness checks include:
-- alternative model specifications
-- clustered standard errors
-- heteroskedasticity testing
-- alternative variable definitions
+This notebook:
+- loads `data/clean/final_panel.csv`
+- declares the analysis as descriptive
+- estimates the baseline fixed-effects regression
+- reports the regression table
+- interprets the main coefficients
+- discusses threats and limitations
