@@ -1,0 +1,385 @@
+Country,Year,Coord,Coord_Was_Imputed
+Australia,2000,2.0,False
+Australia,2001,2.0,False
+Australia,2002,2.0,False
+Australia,2003,2.0,False
+Australia,2004,2.0,False
+Australia,2005,1.0,False
+Australia,2006,1.0,False
+Australia,2007,1.0,False
+Australia,2008,1.0,False
+Australia,2009,2.0,False
+Australia,2010,2.0,False
+Australia,2011,2.0,False
+Australia,2012,2.0,False
+Australia,2013,2.0,False
+Australia,2014,2.0,False
+Australia,2015,2.0,False
+Australia,2016,2.0,False
+Australia,2017,2.0,False
+Australia,2018,2.0,False
+Australia,2019,2.0,False
+Australia,2020,2.0,True
+Australia,2021,2.0,True
+Australia,2022,2.0,True
+Australia,2023,2.0,True
+Austria,2000,4.0,False
+Austria,2001,4.0,False
+Austria,2002,4.0,False
+Austria,2003,4.0,False
+Austria,2004,4.0,False
+Austria,2005,4.0,False
+Austria,2006,4.0,False
+Austria,2007,4.0,False
+Austria,2008,4.0,False
+Austria,2009,4.0,False
+Austria,2010,4.0,False
+Austria,2011,4.0,False
+Austria,2012,4.0,False
+Austria,2013,4.0,False
+Austria,2014,4.0,False
+Austria,2015,4.0,False
+Austria,2016,4.0,False
+Austria,2017,4.0,False
+Austria,2018,4.0,False
+Austria,2019,4.0,False
+Austria,2020,4.0,True
+Austria,2021,4.0,True
+Austria,2022,4.0,True
+Austria,2023,4.0,True
+Belgium,2000,5.0,False
+Belgium,2001,5.0,False
+Belgium,2002,5.0,False
+Belgium,2003,5.0,False
+Belgium,2004,5.0,False
+Belgium,2005,5.0,False
+Belgium,2006,5.0,False
+Belgium,2007,5.0,False
+Belgium,2008,5.0,False
+Belgium,2009,5.0,False
+Belgium,2010,5.0,False
+Belgium,2011,5.0,False
+Belgium,2012,5.0,False
+Belgium,2013,5.0,False
+Belgium,2014,5.0,False
+Belgium,2015,5.0,False
+Belgium,2016,5.0,False
+Belgium,2017,5.0,False
+Belgium,2018,5.0,False
+Belgium,2019,5.0,False
+Belgium,2020,5.0,True
+Belgium,2021,5.0,True
+Belgium,2022,5.0,True
+Belgium,2023,5.0,True
+Canada,2000,1.0,False
+Canada,2001,1.0,False
+Canada,2002,1.0,False
+Canada,2003,1.0,False
+Canada,2004,1.0,False
+Canada,2005,1.0,False
+Canada,2006,1.0,False
+Canada,2007,1.0,False
+Canada,2008,1.0,False
+Canada,2009,1.0,False
+Canada,2010,1.0,False
+Canada,2011,1.0,False
+Canada,2012,1.0,False
+Canada,2013,1.0,False
+Canada,2014,1.0,False
+Canada,2015,1.0,False
+Canada,2016,1.0,False
+Canada,2017,1.0,False
+Canada,2018,1.0,False
+Canada,2019,1.0,False
+Canada,2020,1.0,True
+Canada,2021,1.0,True
+Canada,2022,1.0,True
+Canada,2023,1.0,True
+Denmark,2000,4.0,False
+Denmark,2001,4.0,False
+Denmark,2002,4.0,False
+Denmark,2003,4.0,False
+Denmark,2004,4.0,False
+Denmark,2005,4.0,False
+Denmark,2006,4.0,False
+Denmark,2007,4.0,False
+Denmark,2008,4.0,False
+Denmark,2009,4.0,False
+Denmark,2010,4.0,False
+Denmark,2011,4.0,False
+Denmark,2012,4.0,False
+Denmark,2013,4.0,False
+Denmark,2014,4.0,False
+Denmark,2015,4.0,False
+Denmark,2016,4.0,False
+Denmark,2017,4.0,False
+Denmark,2018,4.0,False
+Denmark,2019,4.0,False
+Denmark,2020,4.0,True
+Denmark,2021,4.0,True
+Denmark,2022,4.0,True
+Denmark,2023,4.0,True
+Finland,2000,2.0,False
+Finland,2001,4.0,False
+Finland,2002,4.0,False
+Finland,2003,4.0,False
+Finland,2004,4.0,False
+Finland,2005,4.0,False
+Finland,2006,4.0,False
+Finland,2007,4.0,False
+Finland,2008,3.0,False
+Finland,2009,3.0,False
+Finland,2010,3.0,False
+Finland,2011,4.0,False
+Finland,2012,4.0,False
+Finland,2013,4.0,False
+Finland,2014,4.0,False
+Finland,2015,4.0,False
+Finland,2016,4.0,False
+Finland,2017,3.0,False
+Finland,2018,3.0,False
+Finland,2019,3.0,False
+Finland,2020,3.0,True
+Finland,2021,3.0,True
+Finland,2022,3.0,True
+Finland,2023,3.0,True
+Germany,2000,4.0,False
+Germany,2001,4.0,False
+Germany,2002,4.0,False
+Germany,2003,4.0,False
+Germany,2004,4.0,False
+Germany,2005,4.0,False
+Germany,2006,4.0,False
+Germany,2007,4.0,False
+Germany,2008,4.0,False
+Germany,2009,4.0,False
+Germany,2010,4.0,False
+Germany,2011,4.0,False
+Germany,2012,4.0,False
+Germany,2013,4.0,False
+Germany,2014,4.0,False
+Germany,2015,4.0,False
+Germany,2016,4.0,False
+Germany,2017,4.0,False
+Germany,2018,4.0,False
+Germany,2019,4.0,False
+Germany,2020,4.0,True
+Germany,2021,4.0,True
+Germany,2022,4.0,True
+Germany,2023,4.0,True
+Japan,2000,4.0,False
+Japan,2001,4.0,False
+Japan,2002,4.0,False
+Japan,2003,4.0,False
+Japan,2004,4.0,False
+Japan,2005,4.0,False
+Japan,2006,4.0,False
+Japan,2007,4.0,False
+Japan,2008,4.0,False
+Japan,2009,4.0,False
+Japan,2010,4.0,False
+Japan,2011,4.0,False
+Japan,2012,4.0,False
+Japan,2013,4.0,False
+Japan,2014,4.0,False
+Japan,2015,4.0,False
+Japan,2016,4.0,False
+Japan,2017,4.0,False
+Japan,2018,4.0,False
+Japan,2019,4.0,False
+Japan,2020,4.0,True
+Japan,2021,4.0,True
+Japan,2022,4.0,True
+Japan,2023,4.0,True
+"Korea, Rep.",2000,2.0,False
+"Korea, Rep.",2001,2.0,False
+"Korea, Rep.",2002,2.0,False
+"Korea, Rep.",2003,2.0,False
+"Korea, Rep.",2004,2.0,False
+"Korea, Rep.",2005,2.0,False
+"Korea, Rep.",2006,2.0,False
+"Korea, Rep.",2007,2.0,False
+"Korea, Rep.",2008,2.0,False
+"Korea, Rep.",2009,2.0,False
+"Korea, Rep.",2010,2.0,False
+"Korea, Rep.",2011,2.0,False
+"Korea, Rep.",2012,2.0,False
+"Korea, Rep.",2013,2.0,False
+"Korea, Rep.",2014,2.0,False
+"Korea, Rep.",2015,2.0,False
+"Korea, Rep.",2016,2.0,False
+"Korea, Rep.",2017,2.0,False
+"Korea, Rep.",2018,2.0,False
+"Korea, Rep.",2019,2.0,False
+"Korea, Rep.",2020,2.0,True
+"Korea, Rep.",2021,2.0,True
+"Korea, Rep.",2022,2.0,True
+"Korea, Rep.",2023,2.0,True
+Netherlands,2000,4.0,False
+Netherlands,2001,4.0,False
+Netherlands,2002,5.0,False
+Netherlands,2003,5.0,False
+Netherlands,2004,4.0,False
+Netherlands,2005,4.0,False
+Netherlands,2006,4.0,False
+Netherlands,2007,4.0,False
+Netherlands,2008,4.0,False
+Netherlands,2009,5.0,False
+Netherlands,2010,4.0,False
+Netherlands,2011,4.0,False
+Netherlands,2012,4.0,False
+Netherlands,2013,4.0,False
+Netherlands,2014,4.0,False
+Netherlands,2015,4.0,False
+Netherlands,2016,4.0,False
+Netherlands,2017,4.0,False
+Netherlands,2018,4.0,False
+Netherlands,2019,4.0,False
+Netherlands,2020,4.0,True
+Netherlands,2021,4.0,True
+Netherlands,2022,4.0,True
+Netherlands,2023,4.0,True
+New Zealand,2000,1.0,False
+New Zealand,2001,1.0,False
+New Zealand,2002,1.0,False
+New Zealand,2003,1.0,False
+New Zealand,2004,1.0,False
+New Zealand,2005,1.0,False
+New Zealand,2006,1.0,False
+New Zealand,2007,1.0,False
+New Zealand,2008,1.0,False
+New Zealand,2009,1.0,False
+New Zealand,2010,1.0,False
+New Zealand,2011,1.0,False
+New Zealand,2012,1.0,False
+New Zealand,2013,1.0,False
+New Zealand,2014,1.0,False
+New Zealand,2015,1.0,False
+New Zealand,2016,1.0,False
+New Zealand,2017,1.0,False
+New Zealand,2018,1.0,False
+New Zealand,2019,1.0,False
+New Zealand,2020,1.0,True
+New Zealand,2021,1.0,True
+New Zealand,2022,1.0,True
+New Zealand,2023,1.0,True
+Norway,2000,4.0,False
+Norway,2001,4.0,False
+Norway,2002,4.0,False
+Norway,2003,4.0,False
+Norway,2004,4.0,False
+Norway,2005,4.0,False
+Norway,2006,4.0,False
+Norway,2007,4.0,False
+Norway,2008,4.0,False
+Norway,2009,4.0,False
+Norway,2010,4.0,False
+Norway,2011,4.0,False
+Norway,2012,4.0,False
+Norway,2013,4.0,False
+Norway,2014,4.0,False
+Norway,2015,4.0,False
+Norway,2016,4.0,False
+Norway,2017,4.0,False
+Norway,2018,4.0,False
+Norway,2019,4.0,False
+Norway,2020,4.0,True
+Norway,2021,4.0,True
+Norway,2022,4.0,True
+Norway,2023,4.0,True
+Sweden,2000,4.0,False
+Sweden,2001,4.0,False
+Sweden,2002,4.0,False
+Sweden,2003,4.0,False
+Sweden,2004,4.0,False
+Sweden,2005,4.0,False
+Sweden,2006,4.0,False
+Sweden,2007,4.0,False
+Sweden,2008,4.0,False
+Sweden,2009,4.0,False
+Sweden,2010,4.0,False
+Sweden,2011,4.0,False
+Sweden,2012,4.0,False
+Sweden,2013,4.0,False
+Sweden,2014,4.0,False
+Sweden,2015,4.0,False
+Sweden,2016,4.0,False
+Sweden,2017,4.0,False
+Sweden,2018,4.0,False
+Sweden,2019,4.0,False
+Sweden,2020,4.0,True
+Sweden,2021,4.0,True
+Sweden,2022,4.0,True
+Sweden,2023,4.0,True
+Switzerland,2000,3.0,False
+Switzerland,2001,3.0,False
+Switzerland,2002,3.0,False
+Switzerland,2003,3.0,False
+Switzerland,2004,3.0,False
+Switzerland,2005,3.0,False
+Switzerland,2006,3.0,False
+Switzerland,2007,3.0,False
+Switzerland,2008,3.0,False
+Switzerland,2009,3.0,False
+Switzerland,2010,3.0,False
+Switzerland,2011,3.0,False
+Switzerland,2012,3.0,False
+Switzerland,2013,3.0,False
+Switzerland,2014,3.0,False
+Switzerland,2015,3.0,False
+Switzerland,2016,3.0,False
+Switzerland,2017,3.0,False
+Switzerland,2018,3.0,False
+Switzerland,2019,3.0,False
+Switzerland,2020,3.0,True
+Switzerland,2021,3.0,True
+Switzerland,2022,3.0,True
+Switzerland,2023,3.0,True
+United Kingdom,2000,2.0,False
+United Kingdom,2001,2.0,False
+United Kingdom,2002,2.0,False
+United Kingdom,2003,2.0,False
+United Kingdom,2004,2.0,False
+United Kingdom,2005,2.0,False
+United Kingdom,2006,2.0,False
+United Kingdom,2007,2.0,False
+United Kingdom,2008,2.0,False
+United Kingdom,2009,2.0,False
+United Kingdom,2010,2.0,False
+United Kingdom,2011,2.0,False
+United Kingdom,2012,2.0,False
+United Kingdom,2013,2.0,False
+United Kingdom,2014,2.0,False
+United Kingdom,2015,2.0,False
+United Kingdom,2016,2.0,False
+United Kingdom,2017,2.0,False
+United Kingdom,2018,2.0,False
+United Kingdom,2019,2.0,False
+United Kingdom,2020,2.0,True
+United Kingdom,2021,2.0,True
+United Kingdom,2022,2.0,True
+United Kingdom,2023,2.0,True
+United States,2000,1.0,False
+United States,2001,1.0,False
+United States,2002,1.0,False
+United States,2003,1.0,False
+United States,2004,1.0,False
+United States,2005,1.0,False
+United States,2006,1.0,False
+United States,2007,1.0,False
+United States,2008,1.0,False
+United States,2009,1.0,False
+United States,2010,1.0,False
+United States,2011,1.0,False
+United States,2012,1.0,False
+United States,2013,1.0,False
+United States,2014,1.0,False
+United States,2015,1.0,False
+United States,2016,1.0,False
+United States,2017,1.0,False
+United States,2018,1.0,False
+United States,2019,1.0,False
+United States,2020,1.0,True
+United States,2021,1.0,True
+United States,2022,1.0,True
+United States,2023,1.0,True

@@ -1,0 +1,361 @@
+Country,Year,Coord
+Australia,2000,2
+Australia,2001,2
+Australia,2002,2
+Australia,2003,2
+Australia,2004,2
+Australia,2005,1
+Australia,2006,1
+Australia,2007,1
+Australia,2008,1
+Australia,2009,2
+Australia,2010,2
+Australia,2011,2
+Australia,2012,2
+Australia,2013,2
+Australia,2014,2
+Australia,2015,2
+Australia,2016,2
+Australia,2017,2
+Australia,2018,2
+Australia,2019,2
+Australia,2020,..
+Australia,2021,..
+Australia,2022,..
+Australia,2023,..
+Austria,2000,4
+Austria,2001,4
+Austria,2002,4
+Austria,2003,4
+Austria,2004,4
+Austria,2005,4
+Austria,2006,4
+Austria,2007,4
+Austria,2008,4
+Austria,2009,4
+Austria,2010,4
+Austria,2011,4
+Austria,2012,4
+Austria,2013,4
+Austria,2014,4
+Austria,2015,4
+Austria,2016,4
+Austria,2017,4
+Austria,2018,4
+Austria,2019,4
+Austria,2020,..
+Austria,2021,..
+Austria,2022,..
+Austria,2023,..
+Belgium,2000,5
+Belgium,2001,5
+Belgium,2002,5
+Belgium,2003,5
+Belgium,2004,5
+Belgium,2005,5
+Belgium,2006,5
+Belgium,2007,5
+Belgium,2008,5
+Belgium,2009,5
+Belgium,2010,5
+Belgium,2011,5
+Belgium,2012,5
+Belgium,2013,5
+Belgium,2014,5
+Belgium,2015,5
+Belgium,2016,5
+Belgium,2017,5
+Belgium,2018,5
+Belgium,2019,5
+Belgium,2020,..
+Belgium,2021,..
+Belgium,2022,..
+Belgium,2023,..
+Canada,2000,1
+Canada,2001,1
+Canada,2002,1
+Canada,2003,1
+Canada,2004,1
+Canada,2005,1
+Canada,2006,1
+Canada,2007,1
+Canada,2008,1
+Canada,2009,1
+Canada,2010,1
+Canada,2011,1
+Canada,2012,1
+Canada,2013,1
+Canada,2014,1
+Canada,2015,1
+Canada,2016,1
+Canada,2017,1
+Canada,2018,1
+Canada,2019,1
+Canada,2020,..
+Canada,2021,..
+Canada,2022,..
+Canada,2023,..
+Denmark,2000,4
+Denmark,2001,4
+Denmark,2002,4
+Denmark,2003,4
+Denmark,2004,4
+Denmark,2005,4
+Denmark,2006,4
+Denmark,2007,4
+Denmark,2008,4
+Denmark,2009,4
+Denmark,2010,4
+Denmark,2011,4
+Denmark,2012,4
+Denmark,2013,4
+Denmark,2014,4
+Denmark,2015,4
+Denmark,2016,4
+Denmark,2017,4
+Denmark,2018,4
+Denmark,2019,4
+Denmark,2020,..
+Denmark,2021,..
+Denmark,2022,..
+Denmark,2023,..
+Finland,2000,2
+Finland,2001,4
+Finland,2002,4
+Finland,2003,4
+Finland,2004,4
+Finland,2005,4
+Finland,2006,4
+Finland,2007,4
+Finland,2008,3
+Finland,2009,3
+Finland,2010,3
+Finland,2011,4
+Finland,2012,4
+Finland,2013,4
+Finland,2014,4
+Finland,2015,4
+Finland,2016,4
+Finland,2017,3
+Finland,2018,3
+Finland,2019,3
+Finland,2020,..
+Finland,2021,..
+Finland,2022,..
+Finland,2023,..
+Germany,2000,4
+Germany,2001,4
+Germany,2002,4
+Germany,2003,4
+Germany,2004,4
+Germany,2005,4
+Germany,2006,4
+Germany,2007,4
+Germany,2008,4
+Germany,2009,4
+Germany,2010,4
+Germany,2011,4
+Germany,2012,4
+Germany,2013,4
+Germany,2014,4
+Germany,2015,4
+Germany,2016,4
+Germany,2017,4
+Germany,2018,4
+Germany,2019,4
+Germany,2020,..
+Germany,2021,..
+Germany,2022,..
+Germany,2023,..
+Japan,2000,4
+Japan,2001,4
+Japan,2002,4
+Japan,2003,4
+Japan,2004,4
+Japan,2005,4
+Japan,2006,4
+Japan,2007,4
+Japan,2008,4
+Japan,2009,4
+Japan,2010,4
+Japan,2011,4
+Japan,2012,4
+Japan,2013,4
+Japan,2014,4
+Japan,2015,4
+Japan,2016,4
+Japan,2017,4
+Japan,2018,4
+Japan,2019,4
+Japan,2020,..
+Japan,2021,..
+Japan,2022,..
+Japan,2023,..
+Netherlands,2000,4
+Netherlands,2001,4
+Netherlands,2002,5
+Netherlands,2003,5
+Netherlands,2004,4
+Netherlands,2005,4
+Netherlands,2006,4
+Netherlands,2007,4
+Netherlands,2008,4
+Netherlands,2009,5
+Netherlands,2010,4
+Netherlands,2011,4
+Netherlands,2012,4
+Netherlands,2013,4
+Netherlands,2014,4
+Netherlands,2015,4
+Netherlands,2016,4
+Netherlands,2017,4
+Netherlands,2018,4
+Netherlands,2019,4
+Netherlands,2020,..
+Netherlands,2021,..
+Netherlands,2022,..
+Netherlands,2023,..
+New Zealand,2000,1
+New Zealand,2001,1
+New Zealand,2002,1
+New Zealand,2003,1
+New Zealand,2004,1
+New Zealand,2005,1
+New Zealand,2006,1
+New Zealand,2007,1
+New Zealand,2008,1
+New Zealand,2009,1
+New Zealand,2010,1
+New Zealand,2011,1
+New Zealand,2012,1
+New Zealand,2013,1
+New Zealand,2014,1
+New Zealand,2015,1
+New Zealand,2016,1
+New Zealand,2017,1
+New Zealand,2018,1
+New Zealand,2019,1
+New Zealand,2020,..
+New Zealand,2021,..
+New Zealand,2022,..
+New Zealand,2023,..
+Norway,2000,4
+Norway,2001,4
+Norway,2002,4
+Norway,2003,4
+Norway,2004,4
+Norway,2005,4
+Norway,2006,4
+Norway,2007,4
+Norway,2008,4
+Norway,2009,4
+Norway,2010,4
+Norway,2011,4
+Norway,2012,4
+Norway,2013,4
+Norway,2014,4
+Norway,2015,4
+Norway,2016,4
+Norway,2017,4
+Norway,2018,4
+Norway,2019,4
+Norway,2020,..
+Norway,2021,..
+Norway,2022,..
+Norway,2023,..
+Sweden,2000,4
+Sweden,2001,4
+Sweden,2002,4
+Sweden,2003,4
+Sweden,2004,4
+Sweden,2005,4
+Sweden,2006,4
+Sweden,2007,4
+Sweden,2008,4
+Sweden,2009,4
+Sweden,2010,4
+Sweden,2011,4
+Sweden,2012,4
+Sweden,2013,4
+Sweden,2014,4
+Sweden,2015,4
+Sweden,2016,4
+Sweden,2017,4
+Sweden,2018,4
+Sweden,2019,4
+Sweden,2020,..
+Sweden,2021,..
+Sweden,2022,..
+Sweden,2023,..
+Switzerland,2000,3
+Switzerland,2001,3
+Switzerland,2002,3
+Switzerland,2003,3
+Switzerland,2004,3
+Switzerland,2005,3
+Switzerland,2006,3
+Switzerland,2007,3
+Switzerland,2008,3
+Switzerland,2009,3
+Switzerland,2010,3
+Switzerland,2011,3
+Switzerland,2012,3
+Switzerland,2013,3
+Switzerland,2014,3
+Switzerland,2015,3
+Switzerland,2016,3
+Switzerland,2017,3
+Switzerland,2018,3
+Switzerland,2019,3
+Switzerland,2020,..
+Switzerland,2021,..
+Switzerland,2022,..
+Switzerland,2023,..
+United Kingdom,2000,2
+United Kingdom,2001,2
+United Kingdom,2002,2
+United Kingdom,2003,2
+United Kingdom,2004,2
+United Kingdom,2005,2
+United Kingdom,2006,2
+United Kingdom,2007,2
+United Kingdom,2008,2
+United Kingdom,2009,2
+United Kingdom,2010,2
+United Kingdom,2011,2
+United Kingdom,2012,2
+United Kingdom,2013,2
+United Kingdom,2014,2
+United Kingdom,2015,2
+United Kingdom,2016,2
+United Kingdom,2017,2
+United Kingdom,2018,2
+United Kingdom,2019,2
+United Kingdom,2020,..
+United Kingdom,2021,..
+United Kingdom,2022,..
+United Kingdom,2023,..
+United States,2000,1
+United States,2001,1
+United States,2002,1
+United States,2003,1
+United States,2004,1
+United States,2005,1
+United States,2006,1
+United States,2007,1
+United States,2008,1
+United States,2009,1
+United States,2010,1
+United States,2011,1
+United States,2012,1
+United States,2013,1
+United States,2014,1
+United States,2015,1
+United States,2016,1
+United States,2017,1
+United States,2018,1
+United States,2019,1
+United States,2020,..
+United States,2021,..
+United States,2022,..
+United States,2023,..

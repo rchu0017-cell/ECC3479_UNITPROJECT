@@ -1,46 +1,61 @@
-code -> RDC.ipynb contains Python code within a notebook format to:
-- Download the Appropriate Python Packages
-- Transform Raw Data to Clean Data
-- Export cleaned tables into cleaned csv. files: format: variable_type/variable_name
-- Run all cells sequentially for results
+This is a unit project for ECC3146
 
-data/raw -> contains raw excel files split into 3 categories: Dependent, Independent and Control. Datasets should not be modified and contains all original data from the Organisation for Economic Co-operation and Development (OECD) and World Bank (WB)
+## Research Design
 
-### Dependent Variables (2019–2024)
-- % Change in Manufacturing Employment  
-Due to Missingness (Germany 2020), I use an extract Impute from Trading Economics 2020 Q4. Although, the base data sets were pulled from OECD, although from different parts of the website (due to the odd missingness in the different interfaces, but it is still derived from the same dataset)
+Research Question: Does higher labour market coordination improve labour market resilience in advanced economies?
+Countries Data Used: Germany, Netherlands, Belgium, Austria, Denmark, Sweden, Norway, Finland, Japan, South Korea, Switzerland, USA, UK, Canada, Australia, New Zealand
+Years: 2000 - 2023
 
-Dataset 1 (OECD):https://www.oecd.org/en/data/indicators/employment-by-activity.html
-Dataset 2 (OECD): https://data-explorer.oecd.org/vis?lc=en&pg=0&tm=Employment%20by%20activity&snb=329&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_ALFS%40DF_ALFS_EMP_ISIC&df[ag]=OECD.SDD.TPS&df[vs]=1.1&dq=.EMP..N._T.Y_GE15._T.ATU%2BBTF%2BC.A&lom=LASTNPERIODS&lo=5&to[TIME_PERIOD]=false
-Dataset 3 (Trading Economics): https://tradingeconomics.com/germany/employment-manufacturing-eurostat-data.html
+Comparability: The sample consists of advanced economies with differing labour market coordination structures, allowing comparison across liberal, coordinated, and corporatist institutional systems while maintaining comparable levels of economic development. The sample covers 2000–2023, to analyse and compare labour market resilience across countries before, during, and after major economic shocks, including the Global Financial Crisis and COVID-19.
 
-Due to the lack of Download Availability, the data was extracted straight off the Trading Economics site. For future robustness checks, it will likely require surface level data checks between Employment at different times. However, it is to note that this estimate is sourced from other reputable sites such as: National Statistics, EuroStat, World Bank.
+The sample was selected to maximize variation in labour market coordination while maintaining comparable levels of economic development. Country fixed effects are included to control for time-invariant country characteristics, while year fixed effects control for global shocks affecting all countries simultaneously.
 
 
-### Independent Variables
-- Labour Market Coordination (COORD)  
-- Union Density  
-- Collective Bargaining Coverage  
+## Variables
 
-Dataset 1:https://www.oecd.org/en/data/datasets/oecdaias-ictwss-database.html
+Dependent Variable
+- Change in unemployment rate
+    - World Bank indicator: SL.UEM.TOTL.ZS
 
-### Control Variables
-- Export Dependence  
+Main Independent Variable
+- Labour market coordination (COORD)
+    - Source: ICTWSS Database
 
-Dataset 1: https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?end=2025&locations=DE.&name_desc=false&start=2025&type=shaded&view=bar&year=2025
+Control Variables
+- GDP growth
+- Inflation
+- Export dependence
+- Government spending
 
-- GDP Growth (%) 
+All macroeconomic variables are sourced from the World Bank World Development Indicators database.
 
-Dataset 1:https://data.worldbank.org/indicator/NY.GDP.MKTP.KN?locations=DE-US-SE&view=map
+## Replication Instructions
 
-- Change in Manufacturing Output (Value of %GDP)
-Due to Missingness (US 2022 - 2023 in Value of %GDP) + Future Robustness Checks, another US dataset is tabulated and cleaned for future use. The missingness in the Value of %GDP for the OECD dataset is filled in with the FRED dataset (2022 - 2023)
+1. All Datasets are pre-downloaded into data/raw, unmodified
 
-Dataset 1:https://data.worldbank.org/indicator/NV.IND.MANF.ZS
-Dataset 2:https://fred.stlouisfed.org/series/VAPGDPMA#
+2. Download Packages:
+- pandas
+- numpy
+- statsmodels
+- linearmodels
+- matplotlib
+- seaborn
 
-data/clean -> contains the newly cleaned .csv files after running the code:RDC.ipynb
+3. Run all code in RDC.ipynb --> outputs clean files into data/clean
 
-Important notes: Missing data in COORD from 2020 - 2024 is resolved by using 2019 data as a proxy. COORD is a time in-variant variable, and therefore it is appropriate for this case.
+## Econometric Specification
 
-Environment uses Python 3.10+
+The baseline specification is:
+
+ΔUnemployment_it = β0 + β1COORD_it + β2GDPGrowth_it + β3Inflation_it + β4ExportDependence_it + β5GovSpend_it + α_i + γ_t + ε_it
+
+where:
+- α_i represents country fixed effects
+- γ_t represents year fixed effects
+
+## Robustness Checks
+Robustness checks include:
+- alternative model specifications
+- clustered standard errors
+- heteroskedasticity testing
+- alternative variable definitions
