@@ -1,9 +1,9 @@
 ,Result
-COORD,-0.0501 (0.1741)
-GDPGrowth,-0.1135 (0.027)
-Inflation,-0.0446 (0.038)
-ExportDependence,0.0065 (0.008)
-GovSpend,0.1191 (0.0358)
+COORD,-0.0501 (0.1601)
+GDPGrowth,-0.1135 (0.0371)
+Inflation,-0.0446 (0.0394)
+ExportDependence,0.0065 (0.0091)
+GovSpend,0.1191 (0.0468)
 Country Fixed Effects,Yes
 Year Fixed Effects,Yes
 N,365

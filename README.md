@@ -59,3 +59,11 @@ This notebook:
 - reports the regression table
 - interprets the main coefficients
 - discusses threats and limitations
+
+5. Run `Robustness Analysis.ipynb` for robustness checks
+This notebook:
+- loads `data/clean/final_panel.csv`
+- estimates the baseline fixed-effects regression
+- reports the regression table
+- interprets the main coefficients
+- discusses threats and limitations
