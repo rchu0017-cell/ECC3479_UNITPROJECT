@@ -53,17 +53,16 @@ pip install pandas numpy statsmodels matplotlib seaborn
 ##Primary Economic Analysis
 
 This notebook:
-- loads `data/clean/final_panel.csv`
-- declares the analysis as descriptive
-- estimates the baseline fixed-effects regression
-- reports the regression table
-- interprets the main coefficients
-- discusses threats and limitations
+- Loads `data/clean/final_panel.csv`
+- Declares the analysis as descriptive
+- Estimates the baseline fixed-effects regression
+- Reports the regression table
+- Interprets the main coefficients
+- Discusses threats and limitations
 
 5. Run `Robustness Analysis.ipynb` for robustness checks
 This notebook:
 - loads `data/clean/final_panel.csv`
-- estimates the baseline fixed-effects regression
-- reports the regression table
-- interprets the main coefficients
-- discusses threats and limitations
+- Runs a set of Robustness Checks
+- Produces a Robustness Tables, a summary of the results for the Robustness Checks (leave_one_country_out.csv) and (robustness_table.csv)
+- Inteprets the Robustness Tables Results
